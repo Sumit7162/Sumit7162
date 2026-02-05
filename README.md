@@ -108,17 +108,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sumit7162.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sumit7162.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
 </p>
-
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=onedark"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight" />
+</p>
 
 ---
 
