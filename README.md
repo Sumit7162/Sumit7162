@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Sharma;B.Tech+CSE+(Data+Science)+Student;Data+Science+Enthusiast+%7C+MERN+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Sharma;B.Tech+CSE+(Data+Science)+Student; Data+Science+Enthusiast+%7C+Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
