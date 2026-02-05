@@ -88,7 +88,9 @@
 | ---------- | ---------------------------------------------------- |
 | 2023       | Started **B.Tech CSE (Data Science)** at ITM Gwalior |
 | 2024 - 2025| Working on **ML, DL, and MERN based projects**       |
-| 2026 - 2027| Aiming for **internships, research, and placements** |
+| 2025 - 2026| Working on **Advanced ML, DL** |
+| 2026 - 2027| **Targeting internships, research opportunities, and campus placements** |
+
 
 ---
 
@@ -97,25 +99,28 @@
 - **Deep Learning** - IIT Ropar - 2025  
 - **AI and ML Virtual Internship** - Google - 2025  
 - **Data Analytics** - Alteryx - 2025  
+- **Altair Data Science Master Certification** - 2025
+- **Oracle Fusion AI Agent Studio Certified Foundations Associate** -2025
+- **Research Paper Publication** – IJAMRED - 2025
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=transparent" alt="Sumit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumit7162&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight" />
 </p>
 
 ---
@@ -165,7 +170,6 @@
 
 - Python for **Data Science and ML**  
 - Basics of **Machine Learning and Deep Learning**  
-- **MERN stack** and full stack project ideas  
 - How to get started with **GitHub and open source**
 
 ---
