@@ -22,7 +22,9 @@
 
 ## 🧬 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ```python
 class SumitSharma:
@@ -30,24 +32,31 @@ class SumitSharma:
         self.name        = "Sumit Sharma"
         self.role        = "Data Science + MERN Developer"
         self.university  = "ITM Gwalior — B.Tech CSE (DS)"
-        self.location    = "📍 Gwalior, India"
+        self.location    = "Gwalior, India"
         self.languages   = ["Python", "JavaScript", "C++", "SQL"]
         self.ds_stack    = ["Pandas", "NumPy", "Scikit-learn",
                             "Matplotlib", "Deep Learning"]
         self.web_stack   = ["React", "Node.js", "Express", "MongoDB"]
         self.interests   = ["ML Research", "Full Stack Apps",
                             "Open Source", "Data Viz"]
-        self.open_to     = ["Internships 💼", "Collabs 🤝",
-                            "Freelance 🌐", "Research 🔬"]
+        self.open_to     = ["Internships", "Collaborations",
+                            "Freelance", "Research"]
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing. 🚀")
+        print("Thanks for visiting! Let's build something amazing.")
 
 me = SumitSharma()
 me.say_hi()
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,32 +95,82 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Movie Recommendation & Review Platform
-`Mar 2025 – Apr 2025`
+### 🌾 AgriOne
+`TypeScript • Next.js • Tailwind CSS`
 
-> **Stack:** Python • TMDB API • Cosine Similarity • React
+> Live at [agri-one-flax.vercel.app](https://agri-one-flax.vercel.app)
 
-- 🔍 Built content-based filtering using **cosine similarity** on movie feature vectors
-- 🌐 Integrated **TMDB / OMDB APIs** for real-time movie data
-- 🎨 Full UI for movie details, ratings, and user reviews
-- 🔐 **Next:** User auth + collaborative filtering + full MERN deployment
+- Full-stack agriculture platform built with **Next.js + TypeScript**
+- Clean component architecture with **Tailwind CSS + shadcn/ui**
+- Deployed on **Vercel** with Firebase Studio integration
+- 132+ commits — actively maintained
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/AgriOne)
+[![Live](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel)](https://agri-one-flax.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 ML / DL Experiments Lab
-`2024 – Present`
+### 💻 run-code
+`TypeScript • Code Execution Platform`
 
-> **Stack:** Python • TensorFlow / PyTorch • Scikit-learn
+- Online code runner supporting multiple languages
+- Built with **TypeScript** for type-safe execution handling
+- Clean, minimal interface for writing and running code
 
-- 📈 End-to-end ML pipelines with EDA, feature engineering & model tuning
-- 🤖 Deep learning experiments: CNNs, RNNs, NLP models
-- 📊 Interactive dashboards and visualizations
-- 🔬 Published findings via **IJAMRED research paper (2025)**
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/run-code)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 YT-Downloader
+`JavaScript • ⭐ 1`
+
+- YouTube media downloader built in **JavaScript**
+- Supports video and audio format extraction
+- Simple CLI / web interface for quick downloads
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/YT-Downloader)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Voice Assistant
+`Python • ⭐ 1`
+
+- Desktop **voice assistant** built with Python
+- Handles voice commands, web search, and system tasks
+- Uses **SpeechRecognition + pyttsx3** for TTS/STT pipeline
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/Voice-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔆 Brightness & Volume Controller
+`Python • ⭐ 1`
+
+- Control system **brightness and volume** using hand gestures
+- Powered by **OpenCV + MediaPipe** for real-time hand tracking
+- Maps finger distance to system control values via **screen/audio APIs**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/Brightness-Volume-Controller)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Portfolio
+`JavaScript • Personal Website`
+
+- Personal developer portfolio showcasing projects and skills
+- Built with **JavaScript** — clean, responsive design
+- Links to all projects, certifications, and contact info
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Sumit7162/Portfolio)
 
 </td>
 </tr>
