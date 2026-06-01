@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=220&section=header&text=Sumit%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20ML%20Engineer%20|%20Data%20Scientist&descAlignY=55&descAlign=50&animation=tween" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=220&section=header&text=Sumit%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=40&fontAlign=50" width="100%" alt="Sumit Sharma" />
 
 </div>
 
 <div align="center">
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Crafting+AI+%26+Web+Solutions;🤖+ML+%2B+MERN+Stack+Enthusiast;📊+Turning+Data+Into+Insights;✨+Building+Beautiful%2C+Scalable+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Crafting+AI+%26+Web+Solutions;🚀+Full+Stack+%26+ML+Engineer;📊+Data+Science+Enthusiast" alt="Typing animation" />
 
 </div>
 
@@ -269,13 +269,13 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=667eea" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=764ba2&sideNums=667eea" width="500" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=764ba2&sideNums=667eea" width="100%" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -283,7 +283,7 @@ me = SumitSharma()
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -292,11 +292,14 @@ me = SumitSharma()
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+
+> **Note:** The snake animation will appear here once the workflow generates the SVG files.
+
+```
+The snake animation shows your GitHub contributions in a fun, animated way!
+To see it in action, trigger the workflow or wait for the next scheduled run.
+```
+
 </div>
 
 ---
@@ -360,7 +363,7 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" alt="Random Quote" />
 
 <br/><br/>
 
