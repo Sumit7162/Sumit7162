@@ -269,21 +269,15 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Sumit7162&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=764ba2&sideNums=667eea" width="100%" alt="GitHub Streak" />
-
-<br/><br/>
+<img src="https://github-readme-stats-yourusername.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-yourusername.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats-yourusername.vercel.app?user=Sumit7162&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit7162&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-yourusername.vercel.app/?username=Sumit7162&theme=tokyonight" />
 
 </div>
 
