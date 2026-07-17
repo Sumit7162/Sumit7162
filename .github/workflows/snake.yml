@@ -33,16 +33,18 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Create output branch if it doesn't exist, checkout if it does
-          git fetch origin output 2>/dev/null || git checkout --orphan output
-          git checkout output 2>/dev/null || true
-          
+
+          # Properly fetch and track the output branch if it exists
+          if git fetch origin output; then
+            git checkout -B output origin/output
+          else
+            git checkout --orphan output
+          fi
+
           # Copy generated SVG files
           cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           cp dist/github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.svg
-          
-          # Commit and push
+
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
           git commit -m "🐍 Update snake animation" || echo "No changes to commit"
-          git push -u origin output
+          git push origin output --force
