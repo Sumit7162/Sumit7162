@@ -269,7 +269,7 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
 
