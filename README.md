@@ -269,15 +269,15 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://github-readme-stats-yourusername.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-yourusername.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-streak-stats-yourusername.vercel.app?user=Sumit7162&theme=tokyonight" />
+<img src="https://github-readme-stats-Sumit7162.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-Sumit7162.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats-Sumit7162.vercel.app?user=Sumit7162&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit7162&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-yourusername.vercel.app/?username=Sumit7162&theme=tokyonight" />
+<img src="https://github-profile-trophy-Sumit7162.vercel.app/?username=Sumit7162&theme=tokyonight" />
 
 </div>
 
