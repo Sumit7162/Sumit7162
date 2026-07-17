@@ -269,7 +269,7 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://YOUR-STATS-URL.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-omega-amber-53.vercel.app.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
 <img src="https://YOUR-STATS-URL.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-ruddy-zeta.vercel.app?user=Sumit7162&theme=tokyonight" />
 
