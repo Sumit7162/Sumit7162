@@ -291,16 +291,11 @@ me = SumitSharma()
 
 ## 🐍 Contribution Snake Animation
 
-<div align="center">
-
-> **Note:** The snake animation will appear here once the workflow generates the SVG files.
-
-```
-The snake animation shows your GitHub contributions in a fun, animated way!
-To see it in action, trigger the workflow or wait for the next scheduled run.
-```
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sumit7162/Sumit7162/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
