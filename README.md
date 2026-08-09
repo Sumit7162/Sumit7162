@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Crafting+AI+%26+Web+Solutions;🚀+Full+Stack+%26+ML+Engineer;📊+Data+Science+Enthusiast" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Crafting+AI+%26+Web+Solutions;🚀+Full+Stack+%26+ML+Engineer;📊+Data+Science+Enthusiast" alt="Typing animation" />
 
 </div>
 
@@ -22,7 +22,7 @@
   <a href="https://github.com/Sumit7162?tab=followers">
     <img src="https://img.shields.io/github/followers/Sumit7162?style=for-the-badge&color=667eea&labelColor=764ba2&logo=github" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sumit7162&style=for-the-badge&color=667eea&label=👀+PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/👀_PROFILE_VIEWS-2.4k-667eea?style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -67,7 +67,7 @@ me = SumitSharma()
 </td>
 <td valign="middle" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" style="border-radius: 10px; box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" style="border-radius: 10px;" />
 
 <p style="margin-top: 15px;">
   <img src="https://media.giphy.com/media/SWoRKslHVtqgssKP2d/giphy.gif" width="80" alt="rocket" />
@@ -267,15 +267,15 @@ me = SumitSharma()
 
 ## 📊 GitHub Analytics & Insights
 <div align="center">
-<img src="https://github-readme-stats-omega-amber-53.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit7162&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-<img src="https://github-readme-stats-omega-amber-53.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit7162&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
-<img src="https://github-readme-streak-stats-ruddy-zeta.vercel.app?user=Sumit7162&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sumit7162&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit7162&theme=react-dark&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&hide_border=true" width="100%" alt="Contribution Graph" />
 <br/><br/>
-<img src="https://github-profile-trophy-amber-eight.vercel.app/?username=Sumit7162&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit7162&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </div>
 
 ---
@@ -329,7 +329,6 @@ me = SumitSharma()
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmasumit716210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-sharma-a021862a6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit7162)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sumit7162/Portfolio)
 
 </div>
@@ -349,11 +348,7 @@ me = SumitSharma()
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" alt="Random Quote" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,25:4facfe,50:f093fb,75:764ba2,100:667eea&height=120&section=footer&fontSize=18&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,25:4facfe,50:f093fb,75:764ba2,100:667eea&height=120&section=footer&fontSize=18&fontColor=ffffff" width="100%" alt="footer" />
 
 <p>⭐ <strong>If you like my work, consider giving it a star!</strong> ⭐</p>
 
