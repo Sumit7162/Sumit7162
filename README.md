@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Crafting+AI+%26+Web+Solutions;🚀+Full+Stack+%26+ML+Engineer;📊+Data+Science+Enthusiast" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=667EEA&center=true&vCenter=true&width=900&height=60&lines=💻+Crafting+AI+%26+Web+Solutions;🚀+Full+Stack+%26+ML+Engineer;📊+Data+Science+Enthusiast" alt="Typing animation" />
 
 </div>
 
